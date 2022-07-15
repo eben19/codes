@@ -1,0 +1,62 @@
+[
+    {"Name":"Mike Ahmed",
+     "Course":"Com  Sci.",
+     "Duration":"4 years",
+     "Hobbies":"Reading"
+    },
+
+    {"Name":"Eng Nike",
+        "Course":"Medicine",
+        "Duration":"7 years",
+        "Hobbies":"Reading"
+       },
+
+       {"Name":"Abdul Joshua",
+        "Course":"Law",
+        "Duration":"6 years",
+        "Hobbies":"Reading"
+       },
+
+       {"Name":"Sam Smith",
+        "Course":"Com  Sci.",
+        "Duration":"5 years",
+        "Hobbies":"Reading"
+       },
+
+       {"Name":"Finn Rayo",
+        "Course":"Pub Admin",
+        "Duration":"4 years",
+        "Hobbies":"Reading"
+       },
+
+       {"Name":"Dan Chris",
+        "Course":"Com  Sci.",
+        "Duration":"4 years",
+        "Hobbies":"Reading"
+       },
+
+       {"Name":"Genesis Tobi",
+        "Course":"Mass  Comm.",
+        "Duration":"4 years",
+        "Hobbies":"Watching tv"
+       },
+
+       {"Name":"Mike Son",
+        "Course":"Mathematics",
+        "Duration":"4 years",
+        "Hobbies":"Reading"
+       },
+
+       {"Name":"Kola Ahmed",
+        "Course":"Bus. Admin",
+        "Duration":"4 years",
+        "Hobbies":"Travelling"
+       },
+
+       {"Name":"Bola Tim",
+        "Course":"SLT",
+        "Duration":"5 years",
+        "Hobbies":"Playing"
+       }
+
+]

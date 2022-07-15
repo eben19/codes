@@ -1,0 +1,76 @@
+.container{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    /* position:fixed; */
+    z-index: 100;
+}
+
+.con{
+    width: 85%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 15%;
+    height: 100%;
+    object-fit: contain;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: monospace;
+    color: #393E59;
+}
+
+.logo img{
+    width: 50px;
+    height: 50px;
+}
+
+.navHold{
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav{
+    margin: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #393E59;
+    cursor: pointer;
+}
+
+.nav:hover{
+    color: red;
+}
+
+
+.bttn1{
+    width: 110px;
+    height: 42px;
+    background: rgb(93, 93, 233);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.bttn1 :hover{
+    color: red;
+}

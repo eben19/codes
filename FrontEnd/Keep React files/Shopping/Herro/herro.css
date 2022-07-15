@@ -1,0 +1,166 @@
+.contain{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.con-hold{
+    width: 90%;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-acc{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.acc{
+    width: 80%;
+    height: 11%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-hold{
+    width: 25%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.acc-img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    margin-right: 10px;
+}
+
+.price{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.price h5{
+    font-size: 13px;
+    margin-bottom: 4px;
+    margin-top: 6px;
+}
+
+.mid-acc{
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+.mid-acc img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sun{
+    font-size: 35px;
+    position: absolute;
+    bottom: 50px;
+    left: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+
+.right-acc{
+    width:30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.right-top{
+    width: 100%;
+    height: 47%;
+    position: relative;
+}
+
+.right-bottom{
+    width: 100%;
+    height: 45%;
+    position: relative;
+}
+
+.right-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sneak{
+    position: absolute;
+    bottom: -15px;
+    left: 10px;
+    font-size: 14px;
+    color: rgb(59, 17, 2);
+    font-weight: 700;
+}
+
+.hero2{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.hero2-hold{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero2-box{
+    width: 18%;
+    height: 75%;
+    box-shadow: 0 0 5px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hero2-box icon{
+    margin-bottom: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.hero2-box h5{
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-size: 17px;
+}
+
+.hero2-box h6{
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-size: 13px;
+    font-weight: 500;
+    color: gray;
+}
